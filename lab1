@@ -1,0 +1,22 @@
+<html dir="ltr">
+	<head>
+		<title>This is a document file</title>
+	</head>
+	<body>
+		<h3 title="hello HTML!">this is heading</h3>
+		<center>
+		<p><b><strike>document content goes here.........</strike></b></p>
+		</center>
+		<hr />
+		<p><b><i><sub><big><big><big><big>here is a ranjan................</big></big></big></big></sub></b></i></p>
+		<center>
+		<hr />
+		<P align="center"><i><u><sup>here i am doing.....</sup></u></i></p>
+		</center>
+		<pre>
+			men
+			women
+			child
+		</pre>
+	</body>
+</html>
