@@ -9,3 +9,4 @@ void main()
      area=pi*r*r;
      printf(area(%f)=%f\n",r,area);
 }
+aaa
